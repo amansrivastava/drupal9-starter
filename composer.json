@@ -76,5 +76,8 @@
         },
         "patches": {
         }
+    },
+    "require-dev": {
+        "drupal/features": "^3.11"
     }
 }
