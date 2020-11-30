@@ -8,7 +8,11 @@
         "drupal/core-composer-scaffold": "^9.0",
         "drupal/core-recommended": "^9.0",
         "cweagans/composer-patches": "^1.7",
-        "acquia/blt": "^12"
+        "acquia/blt": "^12",
+        "drupal/token": "^1.7",
+        "drupal/pathauto": "^1.8",
+        "drupal/seaside_admin": "^1.12",
+        "drupal/seaside_admin_toolbar": "^1.13"
     },
     "license": "GPL-3.0",
     "authors": [
