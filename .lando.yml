@@ -7,6 +7,3 @@ tooling:
   blt:
     service: appserver
     cmd: /app/vendor/bin/blt
-  drush:
-    service: appserver
-    cmd: /app/vendor/bin/drush
