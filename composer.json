@@ -79,6 +79,7 @@
         }
     },
     "require-dev": {
-        "drupal/features": "^3.11"
+        "drupal/features": "^3.11",
+        "drupal/devel": "^4.0"
     }
 }
