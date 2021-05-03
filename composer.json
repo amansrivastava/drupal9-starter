@@ -5,14 +5,12 @@
     "require": {
         "php": ">=7.3",
         "composer/installers": "^1.9",
-        "drupal/core-composer-scaffold": "^9.0",
-        "drupal/core-recommended": "^9.0",
+        "drupal/core-composer-scaffold": "^9.1",
+        "drupal/core-recommended": "^9.1",
         "cweagans/composer-patches": "^1.7",
         "acquia/blt": "^12",
         "drupal/token": "^1.7",
         "drupal/pathauto": "^1.8",
-        "drupal/seaside_admin": "^1.12",
-        "drupal/seaside_admin_toolbar": "^1.13",
         "drupal/field_group": "^3.1"
     },
     "license": "GPL-3.0",
@@ -79,7 +77,6 @@
         }
     },
     "require-dev": {
-        "drupal/features": "^3.11",
         "drupal/devel": "^4.0"
     }
 }
